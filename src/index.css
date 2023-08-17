@@ -1,0 +1,12 @@
+*{
+  background-color: #cdcdcd;
+}
+.heading{
+  color: green;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 900px;
+}
+.input{
+  box-sizing: 50px;
+}
